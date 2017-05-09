@@ -24,7 +24,13 @@ h5{
 	margin-bottom: 1.5em;
 }
 
-img{
+h6{
+	color: #cbcbd1;
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+#main img{
 	width: 30%;
 	height: 300px;
 	margin: 1em 1.5%;
@@ -49,10 +55,6 @@ header, section{
 	font-size: 1em;
 }
 
-.comparison{
-	width: 50%;
-	height: 50%;
-}
 
 h1.project, h2.project{
 	font-size: 2em;
@@ -65,4 +67,8 @@ section.project {
 .project p{
 	width: 75%;
 	line-height: 1.75;
+}
+
+.comparison{
+
 }
