@@ -67,8 +67,20 @@ section.project {
 .project p{
 	width: 75%;
 	line-height: 1.75;
+	margin-bottom: 40px;
 }
 
-.comparison{
+.largecomparison{
+	padding: 15px 0px 20px;
+}
 
+figure{
+	padding: 15px 0px 50px;
+	margin: 0 auto;
+	text-align: center;
+}
+figcaption{
+	font-size: .75em;
+	padding-left: 40px;
+	color: darkgrey;
 }
