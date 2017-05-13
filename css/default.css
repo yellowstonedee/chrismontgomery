@@ -75,12 +75,11 @@ section.project {
 }
 
 figure{
+	margin-bottom: 40px;
 	padding: 15px 0px 50px;
-	margin: 0 auto;
-	text-align: center;
 }
 figcaption{
 	font-size: .75em;
-	padding-left: 40px;
 	color: darkgrey;
+	padding-top: 20px;
 }
