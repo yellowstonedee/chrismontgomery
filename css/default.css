@@ -89,3 +89,25 @@ figcaption{
 	color: darkgrey;
 	padding-top: 20px;
 }
+
+
+
+
+/********  CONTACT PAGE STYLES   ********/
+
+#profilepic{
+	height: 300px;
+	width: 300px;
+	float: right;
+	padding: 0 25px;
+	margin-bottom: 30px;
+}
+
+.about p{
+	margin-bottom: 0.75em;
+	line-height: 1.2;
+}
+
+.contact{
+	margin-top: 15px;
+}
