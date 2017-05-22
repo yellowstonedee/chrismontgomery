@@ -97,6 +97,12 @@ figcaption{
 	color: darkgrey;
 	padding-top: 20px;
 }
+
+.games{
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
+
  .smallimg{
  	width: 40%;
  	margin-left: 50px;
@@ -107,6 +113,13 @@ figcaption{
  	color: tomato;
  }
 
+.monster{
+	width: 50%;
+}
+
+.top{
+	vertical-align: text-top;
+}
 
 
 /********  CONTACT PAGE STYLES   ********/
