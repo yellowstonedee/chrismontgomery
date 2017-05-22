@@ -84,7 +84,8 @@ section.project {
 	padding-bottom: 0;
 }
 
-.largecomparison{
+.largeimg{
+	width: 70%;
 }
 
 figure{
@@ -98,8 +99,8 @@ figcaption{
 }
  .smallimg{
  	width: 40%;
- 	margin-left: 20px;
- 	margin-bottom: 10px;
+ 	margin-left: 50px;
+ 	margin-bottom: 50px;
  }
 
  .inlinelink{
@@ -120,9 +121,17 @@ figcaption{
 
 .about p{
 	margin-bottom: 0.75em;
-	line-height: 1.2;
+	line-height: 1.3;
 }
 
 .contact{
-	margin-top: 15px;
+	margin-top: 25px;
+}
+
+ul li{
+	margin-top: 7px;
+}
+
+li a{
+	color: tomato;
 }
