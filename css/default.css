@@ -164,3 +164,8 @@ li a{
 	width: 300px;
 	margin: 1.125%;
 }
+
+.design{
+	max-width: 80%;
+	max-height: 1000px;
+}
