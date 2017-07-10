@@ -152,3 +152,15 @@ ul li{
 li a{
 	color: tomato;
 }
+
+.personal{
+	margin-top: 15px;
+	padding-top: 25px;
+	margin-bottom: 20px;
+}
+
+.personal img{
+	height: 300px;
+	width: 300px;
+	margin: 1.125%;
+}
