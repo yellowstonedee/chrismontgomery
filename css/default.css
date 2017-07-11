@@ -168,4 +168,17 @@ li a{
 .design{
 	max-width: 70%;
 	max-height: 800px;
+	margin: 10px;
+}
+
+header + h4{
+	margin: 50px 0 30px;
+}
+
+img.wide{
+	max-width: 90%;
+}
+
+img.small{
+	max-width: 40%;
 }
